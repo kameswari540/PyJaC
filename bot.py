@@ -26,8 +26,8 @@ def remind_name():
 
 
 def guess_age():
-    print('Let me guess your age.')
-    talk("Let me guess your age.")
+    print('okay,Let me guess your age.')
+    talk("okay,Let me guess your age.")
     print('Enter remainders of dividing your age by 3, 5 and 7 in each line')
     talk('Enter remainders of dividing your age by 3, 5 and 7 in each line')
     rem3 = int(input())
